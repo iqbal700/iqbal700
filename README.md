@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iqbal</h1>
-<h3 align="center">A passionate MERN stack frontend developer from Bangladesh</h3>
+<h3 align="center"> Passionate MERN stack frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbal700&label=Profile%20views&color=0e75b6&style=flat" alt="iqbal700" /> </p>
 
